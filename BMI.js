@@ -45,7 +45,6 @@ btn.addEventListener('click', function (){
   heightInput.value = '' 
   weightInput.value = ''
 
-
 })
 
 

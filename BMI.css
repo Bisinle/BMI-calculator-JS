@@ -1,5 +1,8 @@
 body{
   background-color: #333;
+  display: flex;
+  justify-content: center;
+  
 }
 
 .container{
@@ -13,10 +16,12 @@ body{
   background-color: #03755d;
   text-align: center;
   border-radius: 10px;
+  margin-top: 100px;
   
 }
 .h1{
   color: wheat;
+  text-decoration: underline;
 }
 
 .input{
